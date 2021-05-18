@@ -12,7 +12,7 @@ def derfinings():
     ideology2 = random.choice(ideologies)
     adgective = random.choice(adgectives)
     if ideology1 == ideology2:
-        vars()
+        derfinings()
 
 def printing():
     print("Calculating...")
